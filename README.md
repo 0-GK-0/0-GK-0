@@ -6,7 +6,5 @@
 
 ### ༼ つ ◕_◕ ༽つ Linguagens e Tecnologias
 <ul>
-  <li> UNITY </li>
-  <li> HTML </li>
-  <li> CSS </li>
+  <i class="devicon-css3-plain"></i>
 </ul>
