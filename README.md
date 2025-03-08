@@ -2,8 +2,12 @@
 
 **`DESENVOLVEDOR DE JOGOS`**
 
-![GK's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-GK-0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-GK-0&layout=compact&theme=tokyonight)
+<a href="https://github.com/0-GK-0/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0-GK-0&theme=tokyonight" />
+</a>
+<a href="https://github.com/0-GK-0/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0-GK-0&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
